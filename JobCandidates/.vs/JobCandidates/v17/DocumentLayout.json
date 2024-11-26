@@ -1,7 +1,25 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Interview\\JobCandidates\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BAF024-9611-482F-BCFB-58569304AA21}|..\\InfrastructureLayer\\InfrastructureLayer.csproj|d:\\interview\\infrastructurelayer\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0451E2-E04D-4E5F-8007-E00C89F23E3A}|..\\DomainLayer\\DomainLayer.csproj|d:\\interview\\domainlayer\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0451E2-E04D-4E5F-8007-E00C89F23E3A}|..\\DomainLayer\\DomainLayer.csproj|d:\\interview\\domainlayer\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1948A2-BFD1-43FE-8D46-A06DB5A71B0E}|JobCandidates.csproj|d:\\interview\\jobcandidates\\controllers\\jobcandidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1948A2-BFD1-43FE-8D46-A06DB5A71B0E}|JobCandidates.csproj|solutionrelative:controllers\\jobcandidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1948A2-BFD1-43FE-8D46-A06DB5A71B0E}|JobCandidates.csproj|d:\\interview\\jobcandidates\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1948A2-BFD1-43FE-8D46-A06DB5A71B0E}|JobCandidates.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +27,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +48,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Interview\\InfrastructureLayer\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\InfrastructureLayer\\Repository\\Repository.cs",
+              "ToolTip": "D:\\Interview\\InfrastructureLayer\\Repository\\Repository.cs",
+              "RelativeToolTip": "..\\InfrastructureLayer\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:59:54.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Interview\\DomainLayer\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\DomainLayer\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Interview\\DomainLayer\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\DomainLayer\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:58:35.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Interview\\DomainLayer\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "..\\DomainLayer\\Entities\\Users.cs",
+              "ToolTip": "D:\\Interview\\DomainLayer\\Entities\\Users.cs",
+              "RelativeToolTip": "..\\DomainLayer\\Entities\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:57:34.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobCandidateController.cs",
+              "DocumentMoniker": "D:\\Interview\\JobCandidates\\Controllers\\JobCandidateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobCandidateController.cs",
+              "ToolTip": "D:\\Interview\\JobCandidates\\Controllers\\JobCandidateController.cs",
+              "RelativeToolTip": "Controllers\\JobCandidateController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:43:54.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Interview\\JobCandidates\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Interview\\JobCandidates\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:43:27.504Z",
+              "EditorCaption": ""
             }
           ]
         },
